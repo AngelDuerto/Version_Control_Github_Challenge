@@ -1,0 +1,24 @@
+1. Explain what the terminal is in your own words.
+
+The terminal is a text-based interface that allows access to the computer's system. You can run Unix commands and use command line tools such as git. The Terminal is important because it is quicker than using the normal interface and is way more efficient to navigate the computer.
+
+2. What is the major difference between Git and GitHub?
+
+The key difference between Git and GitHub is that Git is an open-source version control tool that developers install locally on their computers, while GitHub is a cloud-based hosting service that lets you manage and store Git repositories. Allows for collaboration when working with others in the same team.
+
+3.  What are the steps to fork a GitHub repository?
+
+Pre steps:
+Get a GitHub account
+Install Git on your computer
+
+Steps:
+1. On GitHub, navigate to the main page of the repository you would like to fork
+2. Above the list with all the files, click on the green button "<> Code"
+3. Copy the SSH URL for the repository
+4. Open the terminal
+5.  Type "cd" to change the location where you want the cloned directory
+6. Type "git clone" and then paste the URL copied earlier 
+7. Press Enter/Return to create your local clone
+Done
+
